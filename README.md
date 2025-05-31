@@ -1,11 +1,9 @@
 # Travel & Hospitality : Navigating the Complexities of Airline and Airport Operations.
- goal is to
- uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics
+ goal is to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics
 
 
 
 
-# Travel & Hospitality : Navigating the Complexities of Airline and Airport Operations.
 
 ## Background
 
