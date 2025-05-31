@@ -1,7 +1,7 @@
-# Travel & Hospitality : Navigating the Complexities of Airline and Airport Operations EXCEL
+# Travel & Hospitality : Navigating the Complexities of Airline and Airport Operations (EXCEL)
  Analyzed ~70K flight records to uncover patterns in delay causes, cancellation trends, and airline/airport performance using Excel-based dashboards.
  
-# Project Link 
+# EXCEl Project Link 
 https://1drv.ms/x/c/cac9b8acdc512f53/EQrwFTqkwkFEnUnLXkbqKroBq5iZlLUu1o3OcSS0ac7UkA?e=6Xsbfj
 
 
