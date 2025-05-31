@@ -1,8 +1,8 @@
-# Travel & Hospitality : Navigating the Complexities of Airline and Airport Operations.
- goal is to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics
-
-
-
+# Travel & Hospitality : Navigating the Complexities of Airline and Airport Operations EXCEL
+ Analyzed ~70K flight records to uncover patterns in delay causes, cancellation trends, and airline/airport performance using Excel-based dashboards.
+ 
+# Project Link 
+https://1drv.ms/x/c/cac9b8acdc512f53/EQrwFTqkwkFEnUnLXkbqKroBq5iZlLUu1o3OcSS0ac7UkA?e=6Xsbfj
 
 
 ## Background
@@ -26,3 +26,63 @@ This dataset provides information about various airlines, with columns: IATA\_CO
 ### Airports Dataset (`airports.csv`)
 
 This dataset contains information about various airports, with columns: IATA\_CODE, AIRPORT, CITY, STATE, COUNTRY, LATITUDE, LONGITUDE.
+
+
+Methodology & Process:
+
+Performed data cleaning and feature engineering to create metrics like total delay, delay category, on-time flag, and fleet utilization
+
+Applied normalization across time and geography to ensure comparative accuracy
+
+Developed key KPIs such as:
+
+Delay by Cause
+
+On-time Performance
+
+Cancellation Rate
+
+Peak Delay Periods
+
+Utilized Pivot Tables, filters, and conditional logic to assess airline operations and performance
+
+Designed an interactive Excel Dashboard to visualize insights and comparisons
+
+# Key Insights Achieved:
+
+Top Delayed Airlines:
+American Airlines (AA) – 23.19 min
+Delta Airlines (DL) – 21.22 min
+ExpressJet (EV) – 20.48 min
+
+Best On-Time Performance:
+Delta Airlines (DL) – 70.13%
+Frontier Airlines (F9) – 47.21% (lowest)
+
+Primary Delay Causes:
+Late aircraft and airline internal issues
+Geographical Insight:
+
+Texas (TX) had the highest airport density
+
+Fleet Utilization:
+WN had the highest (22.78%), AA had the lowest
+
+Top 5 Busiest Airports:
+ATL, ORD, DFW, LAX, DEN (each >79K flights)
+
+Highest Cancellation Rate:
+Airline MQ – 9.2%, mostly due to weather (Reason = B)
+
+Flight Deviation Accuracy:
+UA – most deviation (least accurate)
+HA – least deviation (most accurate)
+
+Limitation:
+
+Dataset covered only 2 months, so seasonal trends couldn’t be analyzed effectively
+
+Business Outcome:
+Delivered a comprehensive Excel dashboard that helped identify performance gaps, optimize airline scheduling, and improve airport operational efficiency. Insights enabled data-driven decisions to improve on-time performance and fleet management strategies.
+
+Tools: Excel, Pivot Tables, Feature Engineering, Data Cleaning, Dashboarding
